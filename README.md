@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [WorldInfoBox Solution](https://worldinformation.netlify.app/)
-- Live Site URL: [WorldInfoBox Live](https://worldinfobox.netlify.app/)
+- Solution URL: [World InfoBox Solution](https://www.frontendmentor.io/solutions/create-world-infobox-using-react-and-react-router-wasiuCHaYp)
+- Live Site URL: [World InfoBox Live](https://worldinfobox.netlify.app/)
 
 ## My process
 
