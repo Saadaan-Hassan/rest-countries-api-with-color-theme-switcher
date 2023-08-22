@@ -7,7 +7,6 @@ function CountryDetails({ countries, darkMode }) {
   const { country } = useParams();
   const navigate = useNavigate();
   const details = countries.find((c) => c.cca3 === country);
-  console.log(details.languages);
   return (
     <div className='container my-5'>
       <button
